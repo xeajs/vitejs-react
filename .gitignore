@@ -1,0 +1,22 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+npm-debug.log*
+yarn-error.log
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+
+# production
+dist
+build
+*.local.*
+# misc
+.DS_Store
+

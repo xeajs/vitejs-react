@@ -1,0 +1,20 @@
+# !**/.eslintrc*
+node_modules
+dist
+public
+*.svg
+*.ico
+*.json
+.gitignore
+*.md
+*.log
+*.lock
+.vsocde
+
+# prettier
+*.prettierrc.*
+typings
+*.js
+*.css
+*.d.ts
+vite.config.ts
