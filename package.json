@@ -13,7 +13,7 @@
   ],
   "description": "",
   "scripts": {
-    "start": "vite & tsc -w",
+    "start": "tsc -w & vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "eslint": "eslint --color --fix --ext .ts,.tsx .",
